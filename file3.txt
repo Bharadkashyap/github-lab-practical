@@ -1,0 +1,1 @@
+Collaboration in GitHub enables multiple developers to work together seamlessly by sharing code, reviewing changes, and managing projects collectively.
