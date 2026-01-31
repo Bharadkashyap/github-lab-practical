@@ -1,0 +1,2 @@
+GitHub is a platform for hosting and collaborating on code,
+enabling developers to manage projects with version control using Git. It supports teamwork through features like pull requests, issues, and branches, making software development more organized and efficient.
